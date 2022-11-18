@@ -2,21 +2,16 @@
     border: solid 1px;
     -webkit-box-shadow: 5px 7px 14px 0px rgba(0,0,0,0.35); 
     box-shadow: 5px 7px 14px 0px rgba(0,0,0,0.35);
-    margin-left: 2%;
+    
     
 }
-.caja-1{
+.seccion{
     display: flex;
     justify-content: center;
-    margin-bottom: 2%;
+    align-items: center;
+
 }
-.caja-2{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 2%;
-}
-.caja-3{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 2%;
+summary{
+    list-style: none;
+    
 }
